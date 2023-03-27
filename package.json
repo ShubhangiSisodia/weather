@@ -1,0 +1,21 @@
+{
+    "name": "evaluation",
+    "version": "1.0.0",
+    "description": "A weather application using Node.js, Express, MongoDB, Redis, and OpenWeather API.",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "dotenv": "^16.0.3",
+      "express": "^4.18.2",
+      "express-rate-limit": "^6.7.0",
+      "mongoose": "^7.0.3",
+      "redis": "^4.6.5",
+      "winston": "^3.8.2"
+    }
+  }
+  
