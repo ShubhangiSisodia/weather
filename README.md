@@ -1,4 +1,4 @@
-### COmmands to Make the application Dockerized
+### Commands to Make the application Dockerized
 
 ```
 docker build -t <DOCKER_IMAGE> .
